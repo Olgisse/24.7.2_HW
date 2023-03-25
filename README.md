@@ -11,6 +11,6 @@
 файл settings
 
 Требования: установленные библиотеки
-requests
-pytest
-requests-toolbelt
+requests,
+pytest,
+requests-toolbelt.
